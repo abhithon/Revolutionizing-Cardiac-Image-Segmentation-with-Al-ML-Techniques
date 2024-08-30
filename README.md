@@ -6,6 +6,6 @@ The CNN model, trained for 18 epochs, achieved a median Dice similarity coeffici
 
 This work shows promising results for automating RV segmentation, potentially reducing the time-intensive manual delineation process currently used in clinical practice.
 ![Architecture]
-(https://github.com/abhithon/Revolutionizing-Cardiac-Image-Segmentation-with-Al-ML-Techniques/blob/main/images/architecture.jpeg)
+(architecture.jpeg)
 ![Results]
-(https://github.com/abhithon/Revolutionizing-Cardiac-Image-Segmentation-with-Al-ML-Techniques/blob/main/images/results.jpeg)
+(results.jpeg)
